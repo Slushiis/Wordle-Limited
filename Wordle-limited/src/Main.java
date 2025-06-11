@@ -94,9 +94,9 @@ public class Main
                            || 0. All words are 5 letter long.                                                                                                                                                 ||
                            || 1. Letters that are in the answer and in the right place turn green.                                                                                                            ||
                            || 2. Letters that are in the answer but in the wrong place turn yellow.                                                                                                           ||
-                           || 3. Letters that are not in the answer turn gray.                                                                                                                               ||
+                           || 3. Letters that are not in the answer turn gray.                                                                                                                                ||
                            || 4. Letters can appear more than once. So if your guess includes two of one letter, they may both turn yellow, both turn green,                                                  ||
-                           || or one could be yellow and the other green.                                                                                                                                        ||
+                           || or one could be yellow and the other green.                                                                                                                                     ||
                            || 5. Each guess must be a valid word in LIMITED WORDLE dictionary. You can't guess "ABCDE".                                                                                       ||
                            || 6. You have six guesses to solve the WORDLE.                                                                                                                                    ||
                            || 7. In HARD mode you have to use found letter in subsequent guesses.                                                                                                             ||
